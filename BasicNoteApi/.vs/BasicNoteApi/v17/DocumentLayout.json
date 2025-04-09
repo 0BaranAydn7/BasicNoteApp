@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ARKMAN\\source\\repos\\BasicNoteApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{044F9695-A41B-4870-9545-9263472AAD39}|BasicNoteApi\\BasicNoteApi.csproj|c:\\users\\arkman\\source\\repos\\basicnoteapi\\basicnoteapi\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044F9695-A41B-4870-9545-9263472AAD39}|BasicNoteApi\\BasicNoteApi.csproj|solutionrelative:basicnoteapi\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044F9695-A41B-4870-9545-9263472AAD39}|BasicNoteApi\\BasicNoteApi.csproj|c:\\users\\arkman\\source\\repos\\basicnoteapi\\basicnoteapi\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044F9695-A41B-4870-9545-9263472AAD39}|BasicNoteApi\\BasicNoteApi.csproj|solutionrelative:basicnoteapi\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044F9695-A41B-4870-9545-9263472AAD39}|BasicNoteApi\\BasicNoteApi.csproj|c:\\users\\arkman\\source\\repos\\basicnoteapi\\basicnoteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044F9695-A41B-4870-9545-9263472AAD39}|BasicNoteApi\\BasicNoteApi.csproj|solutionrelative:basicnoteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044F9695-A41B-4870-9545-9263472AAD39}|BasicNoteApi\\BasicNoteApi.csproj|c:\\users\\arkman\\source\\repos\\basicnoteapi\\basicnoteapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044F9695-A41B-4870-9545-9263472AAD39}|BasicNoteApi\\BasicNoteApi.csproj|solutionrelative:basicnoteapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044F9695-A41B-4870-9545-9263472AAD39}|BasicNoteApi\\BasicNoteApi.csproj|c:\\users\\arkman\\source\\repos\\basicnoteapi\\basicnoteapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044F9695-A41B-4870-9545-9263472AAD39}|BasicNoteApi\\BasicNoteApi.csproj|solutionrelative:basicnoteapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044F9695-A41B-4870-9545-9263472AAD39}|BasicNoteApi\\BasicNoteApi.csproj|c:\\users\\arkman\\source\\repos\\basicnoteapi\\basicnoteapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044F9695-A41B-4870-9545-9263472AAD39}|BasicNoteApi\\BasicNoteApi.csproj|solutionrelative:basicnoteapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044F9695-A41B-4870-9545-9263472AAD39}|BasicNoteApi\\BasicNoteApi.csproj|c:\\users\\arkman\\source\\repos\\basicnoteapi\\basicnoteapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{044F9695-A41B-4870-9545-9263472AAD39}|BasicNoteApi\\BasicNoteApi.csproj|solutionrelative:basicnoteapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BasicNoteApi\\BasicNoteApi\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "BasicNoteApi\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BasicNoteApi\\BasicNoteApi\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "BasicNoteApi\\Controllers\\NoteController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:11:54.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BasicNoteApi\\BasicNoteApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BasicNoteApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BasicNoteApi\\BasicNoteApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BasicNoteApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:11:28.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BasicNoteApi\\BasicNoteApi\\Program.cs",
+              "RelativeDocumentMoniker": "BasicNoteApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BasicNoteApi\\BasicNoteApi\\Program.cs",
+              "RelativeToolTip": "BasicNoteApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:02:12.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BasicNoteApi\\BasicNoteApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BasicNoteApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BasicNoteApi\\BasicNoteApi\\appsettings.json",
+              "RelativeToolTip": "BasicNoteApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T10:01:25.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BasicNoteApi\\BasicNoteApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BasicNoteApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BasicNoteApi\\BasicNoteApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BasicNoteApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:01:10.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BasicNoteApi\\BasicNoteApi\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "BasicNoteApi\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BasicNoteApi\\BasicNoteApi\\Models\\Note.cs",
+              "RelativeToolTip": "BasicNoteApi\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:00:26.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BasicNoteApi\\BasicNoteApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BasicNoteApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BasicNoteApi\\BasicNoteApi\\Models\\User.cs",
+              "RelativeToolTip": "BasicNoteApi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:59:59.858Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
